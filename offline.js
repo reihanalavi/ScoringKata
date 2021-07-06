@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1625601700,
+	"version": 1625605210,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,6 +11,7 @@
 		"images/panahdesimal-sheet0.png",
 		"images/panah-sheet0.png",
 		"images/btnreset-sheet0.png",
+		"images/fullscreen-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
